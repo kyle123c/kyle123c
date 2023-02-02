@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kyle
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently learning PERN/MERN Stack
 - 💞️ I’m looking to collaborate on WebApps
 - 📫 How to reach me https://www.linkedin.com/in/kylecolangelo/
 
